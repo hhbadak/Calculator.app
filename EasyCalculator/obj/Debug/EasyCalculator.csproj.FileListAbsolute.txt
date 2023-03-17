@@ -1,0 +1,11 @@
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\obj\Debug\EasyCalculator.csproj.AssemblyReference.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\obj\Debug\EasyCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\obj\Debug\EasyCalculator.Calculator.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\obj\Debug\EasyCalculator.Properties.Resources.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\obj\Debug\EasyCalculator.csproj.GenerateResource.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\obj\Debug\EasyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\bin\Debug\EasyCalculator.exe.config
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\bin\Debug\EasyCalculator.exe
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\bin\Debug\EasyCalculator.pdb
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\obj\Debug\EasyCalculator.exe
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\Calculator.app\EasyCalculator\obj\Debug\EasyCalculator.pdb
